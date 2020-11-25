@@ -38,7 +38,7 @@ class App extends Component {
     })
   }
 
-  //Add Todo
+  //Add Todo 02
   addTodo = (title) => {
     // const newTodo = {
     //   id: uuid.v4(),
