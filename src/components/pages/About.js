@@ -4,7 +4,7 @@ function About() {
     return (
         <React.Fragment>
             <h1>About</h1>
-            <p>this's the TodoList App About Page</p>
+            <p>this's the TodoList App About Page 002</p>
         </React.Fragment>
     )
 }
